@@ -51,7 +51,7 @@ This Power BI report highlights patterns, trends, and insights that help evaluat
 | File | Description |
 |------|-------------|
 | `POWERBI.pbix` | The complete Adidas Power BI dashboard |
-| `dashboard_screenshot.png` | Preview of the report (optional) |
+| `dashboard_screenshot.png` | Preview of the report |
 | `README.md` | Project documentation |
 
 ---
